@@ -35,9 +35,10 @@ Welcome to my portfolio of hands-on AWS Security labs and automation projects. E
 
 ---
 
-## About
+## About Me
 
-Built and maintained by Sebastian Silva C. Passionate about automation, defense-in-depth and real-world hands-on learning.  
+Built and maintained by Sebastian Silva C. Passionate about automation, defense-in-depth and real-world hands-on learning. 
+CompTIA Security+, Network+, A+ and Azure AZ 900 certified.   
 *Contact me on [LinkedIn](https://www.linkedin.com/in/sebastiansilc)*
 
 ---
