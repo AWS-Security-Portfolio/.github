@@ -1,4 +1,3 @@
-
 ## AWS Security Portfolio
 
 Welcome to my portfolio of hands-on AWS Security labs and automation projects. Each repository below demonstrates real-world AWS security concepts, from identity management and network segmentation, to incident response and serverless application protection.
